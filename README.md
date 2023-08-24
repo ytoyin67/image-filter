@@ -1,0 +1,1 @@
+this is a fiilter image project when you click on  button "All" it displays all the images to the screen but when you click the other button it only displays the images that are associated with each button
